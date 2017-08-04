@@ -1,8 +1,8 @@
 # Data Visualization in Tableau
 
-Datasets for the top 3 facial tissue brands are analyzed: 	Kleenex, Puffs, and Scotties
+Datasets for the top 3 facial tissue brands are analyzed:	Kleenex, Puffs, and Scotties
 
-Datasets for private label tissue brands are analyzed:	Walmart’s Great Value, Target’s Up & Up, and Costco’s Kirkland
+Datasets for private label tissue brands are analyzed: Walmart’s Great Value, Target’s Up & Up, and Costco’s Kirkland
 
 Insights will show:
 Sales trends
